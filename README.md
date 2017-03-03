@@ -1,2 +1,2 @@
 # A3C-TF
-Implementing Advanced Asynchronous Actor Critic Algorithm using TensorFlow
+Implementing the Asynchronous Advanced Actor-Critic Algorithm using TensorFlow

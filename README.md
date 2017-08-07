@@ -1,2 +1,2 @@
 # A3C-TF
-Implementing the Asynchronous advantage actor-critic Algorithm using TensorFlow
+Implementing Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for Deep Reinforcement Learning". using TensorFlow
